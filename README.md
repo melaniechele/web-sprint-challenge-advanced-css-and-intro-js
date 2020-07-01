@@ -25,7 +25,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 1. How would you describe acessibility on the web to someone new to programming?
 For  a website to be accessible it must be able to be used by as many people and devices as possible.
 2. Talk about 3 different things you can do to ensure your website is accessible. 
-media queries, using rem instead of px, use semantic html
+media queries, using rem instead of px, use semantic html, make sure the colors are visible and contrasted enough for color blind users to be able to see. 
 3. How would you explain the concept of a variable to someone new to programming?
 a variable is something that we use to hold value or pieces of data in programming.
 4. What is the purpose of using functions in code?
