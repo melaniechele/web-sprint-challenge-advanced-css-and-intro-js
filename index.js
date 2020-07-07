@@ -225,9 +225,9 @@ console.log(artists);
  * it will return `The artist at index 0 is Amedeo Modigliani`.
 */
 function getArtistByIndex(array, index) {
-    return "The artist at index " + array[index].id + " is " + array[index].name;
+    return "The artist at index" + array[index].id + " is " + array[index].name;
   }
-  console.log(getArtistByIndex(artists, 8));
+  console.log(getArtistByIndex(artists, 19));
 
 
   /**
@@ -241,7 +241,6 @@ var newArrays = [];
     if((array[i].years.charAt(1) === "9") && (array[i].years.charAt(8) === "9")){
       newArrays.push(array[i].name);
   }
- 
   }
   return newArrays;
   
